@@ -2,8 +2,6 @@
 {
     window.AnalyticsManager = AnalyticsManager;
 
-    //AnalyticsManager.defaultGlobalInstance = new AnalyticsManager();
-
     function AnalyticsManager ()
     {
         this.engines = [];
